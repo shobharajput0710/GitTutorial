@@ -15,6 +15,10 @@ struct ContentView: View {
     var name: some View {
            Text("Hello")
          }
+    var subject: some View {
+              Text("good day")
+            }
+       
     
 }
 
